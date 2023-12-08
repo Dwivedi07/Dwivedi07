@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arpit Dwivedi! I'm a Mechanical engineering student from the Indian Institute of Technology Bombay, currently pursuing my minor in the field of Artificial Intelligence and Data Science and also Robotics and controls of autonomous vehicles .
-- 👀 I’m interested in Control System of autonomous vehicles and High Energy systems
-- 🌱 I’m currently learning control strategy of Robust systems and working on deployment of Non Linear Model Predictive Controller on autonomous vehicles. I am also working on High Energy systems and quantum electrodynamics.
+- 👋 Hi, I’m Arpit Dwivedi! I'm a Mechanical engineering student from the Indian Institute of Technology Bombay, currently pursuing my minor in the field of Artificial Intelligence and Data Science and also Robotics and controls of autonomous vehicles.
+- 👀 I’m interested in the Control Systems of autonomous vehicles.
+- 🌱 I’m currently learning the control strategy of Robust systems and working on the deployment of Non-Linear Model Predictive controllers on autonomous vehicles.
 - 💞️ I’m looking to collaborate on anything regarding autonomous robotics and Thermal and Fluids engineering
 - 📫 How to reach me - via email(dwi.arpit@gmail.com)
 
